@@ -1,0 +1,5 @@
+Okay, no Problem! Mad Libs is a phrasal template
+word game. I will prompt you for specific words,
+such as a noun, adjective, or verb, then add
+your words to the story. Once all the words are
+added, I will show you the story.
